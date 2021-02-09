@@ -1,0 +1,1 @@
+# vetor_elevado_ao_quadrado
